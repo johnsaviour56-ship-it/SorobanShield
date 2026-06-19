@@ -218,7 +218,7 @@ Report Formatter (report.rs)
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 # 2. Clone and navigate
-git clone https://github.com/stellar/sorobanshield.git
+git clone https://github.com/johnsaviour56-ship-it/sorobanshield.git
 cd sorobanshield
 
 # 3. Build
