@@ -11,7 +11,7 @@ cargo install sorobanshield
 
 ### Option 2: From Source
 ```bash
-git clone https://github.com/stellar/sorobanshield.git
+git clone https://github.com/johnsaviour56-ship-it/sorobanshield.git
 cd sorobanshield
 cargo build --release
 ./target/release/sorobanshield --help
