@@ -19,7 +19,7 @@ rustc --version  # Verify installation
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/stellar/sorobanshield.git
+git clone https://github.com/johnsaviour56-ship-it/sorobanshield.git
 cd sorobanshield
 ```
 
