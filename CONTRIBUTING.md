@@ -11,7 +11,7 @@ Thank you for your interest in contributing! This document explains how to get s
 
 ### Setup
 ```bash
-git clone https://github.com/stellar/sorobanshield.git
+git clone https://github.com/johnsaviour56-ship-it/sorobanshield.git
 cd sorobanshield
 cargo build
 cargo test
